@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cdde3cf-2b87-43a5-b80d-43cdb8058d4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCoding24.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Day1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/day1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/day2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/test.txt" afterDir="false" />
-    </list>
+    <list default="true" id="1cdde3cf-2b87-43a5-b80d-43cdb8058d4f" name="Changes" comment="fixed some files not running and the jdk versions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -71,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1736881178676</updated>
     </task>
+    <task id="LOCAL-00001" summary="fixed some files not running and the jdk versions">
+      <created>1736914863908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736914863908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed some files not running and the jdk versions" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed some files not running and the jdk versions" />
   </component>
 </project>
